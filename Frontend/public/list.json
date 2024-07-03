@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Enchanted",
+    "title": "Step into a world of magic and wonder with stories.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/book-opening-its-pages_1057087-1348.jpg?w=740"
+  },
+  {
+    "id": 2,
+    "name": "Mysteries",
+    "title": "Unravel mysteries and secrets in thrilling adventures.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/book-opening-its-pages_1057087-1348.jpg?w=740"
+  },
+  {
+    "id": 3,
+    "name": "Art",
+    "title": "Discover inner peace and enlightenment through artworks.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/book-opening-its-pages_1057087-1348.jpg?w=740"
+  },
+  {
+    "id": 4,
+    "name": "Gourmet",
+    "title": "Indulge in exquisite flavors and culinary adventures.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/book-opening-its-pages_1057087-1348.jpg?w=740"
+  },
+  {
+    "id": 5,
+    "name": "Universe",
+    "title": "Embark on a journey through the vastness of the universe.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/book-opening-its-pages_1057087-1348.jpg?w=740"
+  },
+  {
+    "id": 6,
+    "name": "Wilderness",
+    "title": "Experience thrilling adventures of the wilderness.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/book-opening-its-pages_1057087-1348.jpg?w=740"
+  },
+  {
+    "id": 7,
+    "name": "Fairy",
+    "title": "Immerse yourself in magical realms and fairy tale.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/book-opening-its-pages_1057087-1348.jpg?w=740"
+  },
+  {
+    "id": 8,
+    "name": "Mindful",
+    "title": "Embrace mindfulness and live a more fulfilling life.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/book-opening-its-pages_1057087-1348.jpg?w=740"
+  },
+  {
+    "id": 9,
+    "name": "Ancient",
+    "title": "Uncover the secrets of ancient civilizations.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/book-opening-its-pages_1057087-1348.jpg?w=740"
+  },
+  {
+    "id": 10,
+    "name": "Future",
+    "title": "Explore futuristic worlds and visionary ideas.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/book-opening-its-pages_1057087-1348.jpg?w=740"
+  }
+]
